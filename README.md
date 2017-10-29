@@ -11,8 +11,9 @@ El modelo se puede ejecutar con el comando
 
 ```problog model.pl```
 
-
 ## Modelo
+
+[<img src="https://github.com/frossi85/prob-inference-engine-tp2/blob/master/asia-model.jpg">]()
 
 ## Referencias 
 * https://www.bayesserver.com/docs/introduction/bayesian-networks
